@@ -2,6 +2,6 @@
 
 :ocean: Me chamo Ana Carolina Corrêa Colombo :ocean:
 
-:paw_prints: Tenho 15 ano :paw_prints:
+:paw_prints: Tenho 15 anos :paw_prints:
 
 :books: Estudo no primeiro ano do ensino médio :books:
