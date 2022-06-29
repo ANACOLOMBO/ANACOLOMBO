@@ -1,7 +1,8 @@
-:sparkles: QUEM SOU EU :sparkles:
+:sparkles:**QUEM SOU EU** :sparkles:
 
-:ocean: Me chamo Ana Carolina Corrêa Colombo :ocean:
+:ocean: Me chamo *Ana Carolina Corrêa Colombo*  :ocean:
 
 :paw_prints: Tenho 15 anos :paw_prints:
 
-:books: Estudo no primeiro ano do ensino médio :books:
+:books: Estudo no primeiro ano do ensino médio,sou estudante de programação estou aprendento HTML,JAVASCRIPT... :books:
+
